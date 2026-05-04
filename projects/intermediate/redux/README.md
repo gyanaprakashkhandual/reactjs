@@ -1,0 +1,1 @@
+### This project is todo application build with react and typescript. It is built using redux for state management and redux-thunk for async actions. It also uses react-router-dom for routing and styled-components for styling.
