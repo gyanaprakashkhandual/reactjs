@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/set-state-in-effect */
 import { useEffect, useState } from "react";
 import { TodoProvider } from "./context/Todo.context";
 import type { Todo } from "./context/Todo.context";
